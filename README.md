@@ -1,11 +1,17 @@
 <div align="center">
 <h1>Video Downloader in Google Colab</h1>
-  
+
+![Made by Qaisar](https://img.shields.io/badge/Made%20by-Qaisar%20Abbas-blueviolet)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
+
+![Python](https://img.shields.io/badge/Python-3.9-blue)
+![License](https://img.shields.io/badge/License-MIT-green)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/QaisarAbbas2024/vidfetch-colab/blob/main/YT_Videos.ipynb)
+
+![Repo Size](https://img.shields.io/github/repo-size/QaisarAbbas2024/vidfetch-colab)
+![Last Commit](https://img.shields.io/github/last-commit/QaisarAbbas2024/vidfetch-colab)
 [![GitHub forks](https://img.shields.io/github/forks/QaisarAbbas2024/Python-for-Absolute-Beginners.svg?style=social&label=Fork&maxAge=2592000)](https://github.com/QaisarAbbas2024/Python-for-Absolute-Beginners/network/)
-[![PyPI pyversions](https://img.shields.io/pypi/pyversions/ansicolortags.svg)](https://pypi.python.org/pypi/ansicolortags/)
 [![Open Source Love png3](https://badges.frapsoft.com/os/v3/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
-[![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/)
 </div>
 
 This repository contains a Python-based tool to download high-quality videos using public video URLs. It is designed to be run in a Google Colab notebook, making it easy to use on any device without installing software locally.
