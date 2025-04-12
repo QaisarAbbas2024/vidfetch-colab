@@ -12,7 +12,7 @@ This repository contains a Python-based tool to download high-quality videos usi
 ## 📁 Files in this Repo
 
 - `video_downloader.py`: The main Python script containing the logic to fetch and download videos.
-- `Video_Downloader_Colab.ipynb`: A ready-to-use Google Colab notebook.
+- `YT_Videos.ipynb`: A ready-to-use Google Colab notebook.
 - `README.md`: This file — basic info and usage instructions.
 
 ## 🧰 Requirements
