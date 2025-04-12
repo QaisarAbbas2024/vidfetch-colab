@@ -22,14 +22,17 @@ This script uses popular Python libraries like:
 - `os`, `subprocess`, `IPython.display` (for Colab interactivity)
 
 All necessary packages will be automatically installed in the Colab notebook.
+---
 
 ## ✅ How to Use
 
 1. Open the Colab notebook: [Video Downloader Colab](https://colab.research.google.com/)
-2. Run the cells step-by-step.
-3. Paste your video URL.
-4. Download your video with ease!
-
+2. Paste the provided code into the Colab IDE.
+3. Scroll to the bottom of the code and insert your video URL in the designated spot (Example Tag).
+4. Click on **Run** to execute the cells.
+5. Once execution is complete, go to the **Files** tab in the menu.
+6. Your downloaded video will be available there — just click to download it easily!
+---
 ## ⚠️ Disclaimer
 
 This tool is for **educational purposes only**. Downloading videos without permission may violate the terms of service of content platforms. Please respect content creators and copyright laws.
