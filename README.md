@@ -1,6 +1,5 @@
 <div align="center">
 <h1>Video Downloader in Google Colab</h1>
-<h3>This repository contains a Python-based tool to download high-quality videos using public video URLs. It is designed to be run in a Google Colab notebook, making it easy to use on any device without installing software locally.</h3>
   
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 [![GitHub forks](https://img.shields.io/github/forks/QaisarAbbas2024/Python-for-Absolute-Beginners.svg?style=social&label=Fork&maxAge=2592000)](https://github.com/QaisarAbbas2024/Python-for-Absolute-Beginners/network/)
