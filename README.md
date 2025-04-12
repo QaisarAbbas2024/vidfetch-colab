@@ -19,7 +19,7 @@ This repository contains a Python-based tool to download high-quality videos usi
 
 This script uses popular Python libraries like:
 - `pytube` or `yt_dlp`
-- `os`, `shutil`, `IPython.display` (for Colab interactivity)
+- `os`, `subprocess`, `IPython.display` (for Colab interactivity)
 
 All necessary packages will be automatically installed in the Colab notebook.
 
