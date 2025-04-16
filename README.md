@@ -52,6 +52,9 @@ All necessary packages will be automatically installed in the Colab notebook.
 This tool is for **educational purposes only**. Downloading videos without permission may violate the terms of service of content platforms. Please respect content creators and copyright laws.
 
 ---
+### 📜 Credits
+- Muhammad Anas
+---
 ### 📩 Stay Connected
 Stay updated with new lessons, exercises, and challenges.
 
